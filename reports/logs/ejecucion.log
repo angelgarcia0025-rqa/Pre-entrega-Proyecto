@@ -1,0 +1,6 @@
+2026-05-13 22:10:11,335 - INFO - Inicio del test: login exitoso
+2026-05-13 22:10:11,986 - INFO - Login exitoso validado correctamente.
+2026-05-13 22:10:15,243 - INFO - Catálogo de productos validado correctamente
+2026-05-13 22:10:16,002 - INFO - Primer producto encontrado: Sauce Labs Backpack - $29.99
+2026-05-13 22:10:19,268 - INFO - Productos agregado correctamente
+2026-05-13 22:10:20,056 - INFO - Producto agregado correctamente al carrito: Sauce Labs Backpack
